@@ -6,11 +6,11 @@ And I'm passionate about crafting digital experiences.
  
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `JavaScript (JS)` `React.js` `Bootstrap` `UI / UX (User Interface / User Experience)` `jQuery`
+**Frontend Development:** `HTML` `CSS` `Tailwind CSS` `JavaScript (JS)` `TypeScript (TS)` `React.js` `Bootstrap` `UI / UX (User Interface / User Experience)` `jQuery`
  
 **Version Control:** `Git` 
 
-**Backend Development:** `Node.js` `PostgreSQL` `Express.js` `EJS (Embedded JavaScript)` `Axios` `BCrypt` `Passport`
+**Backend Development:** `React Query` `Node.js` `PostgreSQL` `Express.js` `EJS (Embedded JavaScript)` `Axios` `BCrypt` `Passport`
 
  
 ## ✨ Fun Facts 
